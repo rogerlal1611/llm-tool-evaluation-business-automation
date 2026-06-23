@@ -207,4 +207,4 @@ The highest-ROI starting point is email drafting automation (Task 1), which requ
 
 *This report was produced as part of an independent AI capability evaluation. All prompt outputs were generated in June 2025 using standard-access tiers of each platform. Scores reflect the author's assessment based on the defined rubric.*
 
-*Roger Lal | AI/ML Engineering | roger.lal1611@gmail.com | [linkedin.com/in/rogerlal16](https://linkedin.com/in/rogerlal16)*
+*Roger Lal — AI/ML Engineering — roger.lal1611@gmail.com — [linkedin.com/in/rogerlal16](https://linkedin.com/in/rogerlal16)*
